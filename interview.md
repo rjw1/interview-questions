@@ -18,4 +18,7 @@
 - what is the diversity of the teams?
 - what are you doing as a company to increase diviserty and inclusion within the tech industry
 - what is company policy on shared parental leave?
+- what policy is there about public speaking/blogging?
+- how are pay rises determined?
+- how are promotions determined?
 
