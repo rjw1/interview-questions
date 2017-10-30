@@ -1,0 +1,17 @@
+- when was youre last prodcution outage?
+  - what was it? 
+- monitroing/ metrics
+- configuration management?
+  - how much how far. autoscaling? 
+- if amazon can you deal with losing a zone/ region 
+- dress code? 
+- working from home? 
+- conferences/training?
+- on call rota?
+  - response times
+- do you think the company is going places. 
+- office enviroment? 
+  - noisy/ quiet
+- corporate culture
+- financial fundamentals.
+  - would you be makign a profit if you wenrt expanding.
