@@ -21,4 +21,6 @@
 - what policy is there about public speaking/blogging?
 - how are pay rises determined?
 - how are promotions determined?
+- how much holiday can be carried over?
+- I like to take 6 week holidays every 2 years for various reasons is this possible?
 
