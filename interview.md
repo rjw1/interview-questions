@@ -4,6 +4,7 @@
   - frequency
   - how often does it call people
     - if lots why?
+- Do you pay people to be on call
 - monitroing/ metrics
 - configuration management?
   - how much how far. autoscaling? 
