@@ -1,28 +1,28 @@
 - what do you think devops means?
-- when was youre last prodcution outage?
-  - what was it? 
+- when was you're last production outage?
+  - what was it?
 - what is the on call rota like
   - frequency
   - how often does it call people
     - if lots why?
 - Do you pay people to be on call
-- monitroing/ metrics
+- monitoring/metrics
 - configuration management?
-  - how much how far. autoscaling? 
-- if amazon can you deal with losing a zone/ region 
-- dress code? 
-- working from home? 
+  - how much how far. Auto scaling?
+- if amazon can you deal with losing a zone/ region
+- dress code?
+- working from home?
 - conferences/training?
 - on call rota?
-  - response times
-- do you think the company is going places. 
-- office enviroment? 
+  - response time?
+- do you think the company is going places
+- office environment?
   - noisy/ quiet
 - corporate culture
 - financial fundamentals.
-  - would you be makign a profit if you wenrt expanding.
+  - would you be making a profit if you weren't expanding.
 - what is the diversity of the teams?
-- what are you doing as a company to increase diviserty and inclusion within the tech industry
+- what are you doing as a company to increase diversity and inclusion within the tech industry
 - what is company policy on shared parental leave?
 - what policy is there about public speaking/blogging?
 - how are pay rises determined?
