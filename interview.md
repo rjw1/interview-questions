@@ -1,3 +1,4 @@
+- what do you think devops means?
 - when was youre last prodcution outage?
   - what was it? 
 - what is the on call rota like
