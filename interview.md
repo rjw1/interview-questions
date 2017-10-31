@@ -1,5 +1,9 @@
 - when was youre last prodcution outage?
   - what was it? 
+- what is the on call rota like
+  - frequency
+  - how often does it call people
+    - if lots why?
 - monitroing/ metrics
 - configuration management?
   - how much how far. autoscaling? 
