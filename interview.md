@@ -3,6 +3,7 @@
   - what was it?
 - what is the on call rota like
   - frequency
+  - response time?
   - how often does it call people
     - if lots why?
 - Do you pay people to be on call
@@ -13,8 +14,6 @@
 - dress code?
 - working from home?
 - conferences/training?
-- on call rota?
-  - response time?
 - do you think the company is going places
 - office environment?
   - noisy/ quiet
